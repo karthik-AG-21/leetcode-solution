@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
