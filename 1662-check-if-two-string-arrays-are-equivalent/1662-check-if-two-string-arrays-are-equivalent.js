@@ -5,9 +5,6 @@
  */
 var arrayStringsAreEqual = function(word1, word2) {
 
-   if(word1.join("") !== word2.join("")){
-    return false
-   }else{
-    return true
-   }
+   return word1.join("") === word2.join("")
+   
 }
