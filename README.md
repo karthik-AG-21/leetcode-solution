@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
