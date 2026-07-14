@@ -4,10 +4,24 @@
  * @return {number[]}
  */
 var pivotArray = function(nums, pivot) {
-    let numbers = nums.filter((num)=>num<pivot)
-    let equal = nums.filter((num)=>num == pivot)
-    let largerNum =nums.filter((num)=>num > pivot)
+    
+
+    let smallest = [];
+    let equal = [];
+    let largerNum = []
+
+    for(let i = 0; i<nums.length; i++){
+        if(nums[i]<pivot){
+            smallest.push(nums[i])
+        }else if(nums[i]==pivot){
+            equal.push(nums[i])
+        }else{
+            largerNum.push(nums[i])
+
+        }
+    }
+
    
-    return [...numbers,...equal,...largerNum]
+    return [...smallest,...equal,...largerNum]
     
 };
