@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
