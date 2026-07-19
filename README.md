@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
