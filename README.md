@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
