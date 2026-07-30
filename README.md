@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
