@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0877-stone-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2469-convert-the-temperature) |
