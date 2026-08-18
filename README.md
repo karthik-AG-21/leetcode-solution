@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
