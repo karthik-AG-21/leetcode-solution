@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2716-minimize-string-length) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3668-restore-finishing-order](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
