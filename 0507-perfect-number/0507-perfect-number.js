@@ -10,7 +10,7 @@ var checkPerfectNumber = function(num) {
     }
    }
 
-   return num == sum
+   return num === sum
 
 
 };
