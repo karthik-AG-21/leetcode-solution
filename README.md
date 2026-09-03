@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
