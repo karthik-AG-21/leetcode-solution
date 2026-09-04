@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3945-digit-frequency-score) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3925-concatenate-array-with-reverse](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
