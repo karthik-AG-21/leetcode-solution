@@ -9,6 +9,6 @@ var chunk = function(arr, size) {
         chunk.push(arr.slice(i , i+size))
     }
 
-    return chunk
+    return chunk;
     
 };
