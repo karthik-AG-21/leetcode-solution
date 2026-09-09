@@ -4,7 +4,7 @@
  * @return {number}
  */
 var searchInsert = function(nums, target) {
-    let index = 0
+   
     if(nums.includes(target)){
         return nums.indexOf(target)
     }else if(!nums.includes(target) && nums[nums.length-1] <= target ){
