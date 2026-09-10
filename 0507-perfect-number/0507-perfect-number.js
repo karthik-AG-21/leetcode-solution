@@ -9,8 +9,5 @@ var checkPerfectNumber = function(num) {
         sum += i
     }
    }
-
    return num === sum
-
-
 };
