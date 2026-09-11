@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
@@ -210,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
