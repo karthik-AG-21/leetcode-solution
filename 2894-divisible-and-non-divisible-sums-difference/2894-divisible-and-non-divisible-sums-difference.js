@@ -4,17 +4,16 @@
  * @return {number}
  */
 var differenceOfSums = function(n, m) {
-    let array1=[],array2=[];
+    let sum1=0,sum2=0;
     for(let i = 1; i<=n; i++ ){
-        if(i%m !== 0){
-            array1.push(i)
+        if(i%m != 0){
+            sum1 += i
         }else{
-            array2.push(i)
+            sum2 += i
         }
     }
 
-   let sum1 = array1.reduce((sum , curr)=>sum = sum+curr ,0)
-   let sum2 = array2.reduce((sum , curr)=>sum = sum+curr ,0)
+   
 
    return sum1-sum2
 
