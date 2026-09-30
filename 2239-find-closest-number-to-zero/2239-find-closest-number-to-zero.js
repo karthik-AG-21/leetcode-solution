@@ -4,7 +4,8 @@
  */
 var findClosestNumber = function(nums) {
    
-    let res = nums.map((item)=>Math.abs(item)).sort((a,b)=>a-b)[0];
+    let res = nums.map((item)=>Math.abs(item))
+    res = res.sort((a,b)=>a-b)[0];
 
     if(nums.includes(res)){
         return res
