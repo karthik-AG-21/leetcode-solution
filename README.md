@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
