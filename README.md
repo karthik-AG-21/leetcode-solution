@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3945-digit-frequency-score) |
 ## Array
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3894-traffic-signal-color](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3894-traffic-signal-color](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
