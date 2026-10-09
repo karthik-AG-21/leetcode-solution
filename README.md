@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2239-find-closest-number-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Quicksort
 |  |
 | ------- |
