@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2235-add-two-integers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
