@@ -12,7 +12,7 @@ var topKFrequent = function(nums, k) {
             obj[item] = 1
         }
     })
-    console.log(obj)
+ 
     let newData = Object.entries(obj).sort((a,b)=>b[1]-a[1]).map((item)=>Number(item[0]))
     return newData.slice(0,k)  
 };
