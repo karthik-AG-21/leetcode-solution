@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var topKFrequent = function(nums, k) {
-    let obj={}; array=[];
+    let obj={}; 
     nums.map((item)=>{
         if(obj[item]){
             obj[item]++
