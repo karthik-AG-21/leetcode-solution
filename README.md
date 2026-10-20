@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
