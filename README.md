@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2239-find-closest-number-to-zero) |
+| [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
 | [2716-minimize-string-length](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2716-minimize-string-length) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
