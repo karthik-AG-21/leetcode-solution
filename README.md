@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2716-minimize-string-length) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3467-transform-array-by-parity) |
