@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0414-third-maximum-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik-AG-21/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Heap (Priority Queue)
@@ -345,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1122-relative-sort-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
