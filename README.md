@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0075-sort-colors) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0069-sqrtx) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
