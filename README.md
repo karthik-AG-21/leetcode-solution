@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2404-most-frequent-even-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/karthik-AG-21/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2716-minimize-string-length) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthik-AG-21/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karthik-AG-21/leetcode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Number Theory
 |  |
 | ------- |
